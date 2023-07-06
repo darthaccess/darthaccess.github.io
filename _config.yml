@@ -4,7 +4,7 @@ description: "Blog for CompTIA CASP+ (CAS-004) objectives" # This will show up i
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
+#email: "example@mail.com"
 #twitter_username: "twitteruser"
 github_username: "darthaccess"
 linkedin_username: "michael-cress-18780120b"
